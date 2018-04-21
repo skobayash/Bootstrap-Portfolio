@@ -1,0 +1,30 @@
+
+/* body, html {
+    height: 100%;
+}
+.bg { 
+
+    background-image: url("assets/images/background.png");
+
+
+    height: 100%; 
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}                     
+*/
+                    
+
+.container {
+    width: 960px;
+}
+
+/* .writtenBio {
+    margin-left: 30px;
+} */
+
+.bg-dark {
+    padding: 30px 0px;
+    background: #777777;
+}
